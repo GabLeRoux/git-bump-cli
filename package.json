@@ -17,6 +17,9 @@
     "bump",
     "cli"
   ],
+  "publishConfig": {
+	  "access": "public"
+  },
   "author": "Gabriel Le Breton <lebreton.gabriel@gmail.com>",
   "license": "MIT",
   "dependencies": {
