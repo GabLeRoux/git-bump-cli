@@ -1,6 +1,6 @@
 {
   "name": "@gableroux/git-bump",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bump git tags following semver and nothing more",
   "main": "index.js",
   "bin": "index.js",
@@ -18,7 +18,7 @@
     "cli"
   ],
   "publishConfig": {
-	  "access": "public"
+    "access": "public"
   },
   "author": "Gabriel Le Breton <lebreton.gabriel@gmail.com>",
   "license": "MIT",
