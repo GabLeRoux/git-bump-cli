@@ -67,6 +67,15 @@ Ex: v1.0.0 -> v2.0.0
 
 - [ ] fetch all tags before running the command
 
+## How to publish
+
+```bash
+npm i -g np
+np
+```
+
+Nope, I'm not eating own dog food here. This project is only intended to interact with `git` command line.
+
 ## License
 
 [MIT](LICENSE.md) © [Gabriel Le Breton](https://gableroux.com)
