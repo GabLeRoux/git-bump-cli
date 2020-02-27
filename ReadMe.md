@@ -14,8 +14,31 @@ npm i -g @gableroux/git-bump-cli
 git bump
 ```
 
-This will bump **the right most value** of your latest git tag.  
-Ex: v1.0.0 -> v1.0.1
+```
+        _ _     _
+   __ _(_) |_  | |__  _   _ _ __ ___  _ __
+  / _` | | __| | '_ \| | | | '_ ` _ \| '_ \
+ | (_| | | |_  | |_) | |_| | | | | | | |_) |
+  \__, |_|\__| |_.__/ \__,_|_| |_| |_| .__/
+  |___/                              |_|
+? Select what you desire (Use arrow keys)
+  major
+  premajor
+  minor
+  preminor
+❯ patch
+  prepatch
+  prerelease
+```
+
+```
+Successfully fetched tags
+Latest tag: v1.0.0
+next tag: v1.0.1
+Successfully added tag v1.0.1
+```
+
+## Usage (TODO)
 
 ```bash
 git bump patch
