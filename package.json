@@ -18,6 +18,7 @@
     "cli"
   ],
   "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "author": "Gabriel Le Breton <lebreton.gabriel@gmail.com>",
