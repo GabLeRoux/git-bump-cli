@@ -2,6 +2,8 @@
 
 bump git tags following semver and nothing more
 
+Status: this is a work in progress, refer to issues to see what's left before it starts working
+
 ## Installation
 
 ```bash
@@ -64,7 +66,6 @@ Ex: v1.0.0 -> v2.0.0
 ## Todo
 
 - [ ] fetch all tags before running the command
-- [ ] Support release client versions such as `v1.0.0rc1`
 
 ## License
 
