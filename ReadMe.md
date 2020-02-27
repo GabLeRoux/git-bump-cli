@@ -2,7 +2,7 @@
 
 bump git tags following semver and nothing more
 
-Status: this is a work in progress, refer to issues to see what's left before it starts working
+Status: **This project doesn't work yet as a command line**. Refer to [#1](https://github.com/GabLeRoux/git-bump-cli/issues/1)
 
 ## Installation
 
