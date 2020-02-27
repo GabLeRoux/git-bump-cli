@@ -42,28 +42,9 @@ next tag: v1.0.1
 Successfully added tag v1.0.1
 ```
 
-## Usage (TODO)
+## What this is not
 
-```bash
-git bump patch
-```
-
-This will bump **the patch value** of your latest git tag.  
-Ex: v1.0.0 -> v1.0.1
-
-```bash
-git bump minor
-```
-
-This will bump **the minor value** of your latest git tag.  
-Ex: v1.0.0 -> v1.1.0
-
-```bash
-git bump major
-```
-
-This will bump **the major value** of your latest git tag.  
-Ex: v1.0.0 -> v2.0.0
+This command line does not aim to replace nice tools such as [`sindresorhus/np`](https://github.com/sindresorhus/np) (which I totally recommend if you're using node). `@gableroux/git-bump` won't update `package.json` for you, nor publish to `npm` or whatever package manager you're using. It is only aimed to bump latest git tag locally. :+1:
 
 ## How to publish
 
