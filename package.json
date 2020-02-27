@@ -2,8 +2,8 @@
   "name": "@gableroux/git-bump",
   "version": "1.0.4",
   "description": "bump git tags following semver and nothing more",
-  "main": "index.js",
-  "bin": "index.js",
+  "main": "src/index.js",
+  "bin": "src/index.js",
   "scripts": {
     "test": "echo 'no test specified yet, see #5'"
   },
