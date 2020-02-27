@@ -1,5 +1,5 @@
 {
-  "name": "git-bump-cli",
+  "name": "git-bump",
   "version": "1.0.0",
   "description": "bump git tags following semver and nothing more",
   "main": "index.js",
