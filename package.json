@@ -1,7 +1,7 @@
 {
   "name": "@gableroux/git-bump",
   "version": "1.0.5",
-  "description": "bump git tags following semver and nothing more",
+  "description": "Bump latest git tag following semver and nothing more",
   "main": "src/index.js",
   "bin": "src/index.js",
   "scripts": {
