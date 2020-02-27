@@ -7,7 +7,7 @@ Status: this is a work in progress, refer to issues to see what's left before it
 ## Installation
 
 ```bash
-npm i -g @gableroux/git-bump-cli
+npm i -g @gableroux/git-bump
 ```
 
 ## Usage
