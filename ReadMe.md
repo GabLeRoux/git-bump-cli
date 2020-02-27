@@ -1,5 +1,9 @@
 # git-bump-cli
 
+![npm](https://img.shields.io/npm/v/@gableroux/git-bump)
+![Travis (.com)](https://img.shields.io/travis/com/gableroux/git-bump-cli)
+![NPM](https://img.shields.io/npm/l/@gableroux/git-bump)
+
 bump git tags following semver and nothing more
 
 ## Installation
