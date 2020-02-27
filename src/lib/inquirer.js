@@ -1,6 +1,14 @@
 const inquirer = require('inquirer');
 
-const validActionChoices = ['major', 'premajor', 'minor', 'preminor', 'patch', 'prepatch', 'prerelease'];
+const validActionChoices = [
+  'patch',
+  'minor',
+  'major', 
+  'prepatch', 
+  'preminor',
+  'premajor',
+  'prerelease'
+];
 const isValidAction = (value) => validActionChoices.indexOf(value) > -1;
 
 module.exports = {

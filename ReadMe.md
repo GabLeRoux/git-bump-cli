@@ -26,12 +26,12 @@ git bump
   \__, |_|\__| |_.__/ \__,_|_| |_| |_| .__/
   |___/                              |_|
 ? Select what you desire (Use arrow keys)
-  major
-  premajor
-  minor
-  preminor
 ❯ patch
+  minor
+  major
   prepatch
+  preminor
+  premajor
   prerelease
 ```
 
