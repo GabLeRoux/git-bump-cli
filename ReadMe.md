@@ -4,7 +4,7 @@
 [![Travis](https://img.shields.io/travis/com/gableroux/git-bump-cli)](https://travis-ci.com/GabLeRoux/git-bump-cli)
 [![npm](https://img.shields.io/npm/l/@gableroux/git-bump)](LICENSE.md)
 
-bump git tags following semver and nothing more
+Bump latest git tag following [semver](https://semver.org/) and nothing more.
 
 ## Installation
 
