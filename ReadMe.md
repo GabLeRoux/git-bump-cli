@@ -1,8 +1,8 @@
 # git-bump-cli
 
-![npm](https://img.shields.io/npm/v/@gableroux/git-bump)
-![Travis (.com)](https://img.shields.io/travis/com/gableroux/git-bump-cli)
-![NPM](https://img.shields.io/npm/l/@gableroux/git-bump)
+[![npm](https://img.shields.io/npm/v/@gableroux/git-bump)](https://www.npmjs.com/package/@gableroux/git-bump)
+[![Travis](https://img.shields.io/travis/com/gableroux/git-bump-cli)](https://travis-ci.com/GabLeRoux/git-bump-cli)
+[![npm](https://img.shields.io/npm/l/@gableroux/git-bump)](LICENSE.md)
 
 bump git tags following semver and nothing more
 
@@ -65,10 +65,6 @@ git bump major
 This will bump **the major value** of your latest git tag.  
 Ex: v1.0.0 -> v2.0.0
 
-## Todo
-
-- [ ] fetch all tags before running the command
-
 ## How to publish
 
 ```bash
@@ -81,4 +77,3 @@ Nope, I'm not eating own dog food here. This project is only intended to interac
 ## License
 
 [MIT](LICENSE.md) © [Gabriel Le Breton](https://gableroux.com)
-
