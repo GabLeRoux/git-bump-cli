@@ -1,0 +1,21 @@
+{
+  "name": "git-bump-cli",
+  "version": "1.0.0",
+  "description": "bump git tags following semver and nothing more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/GabLeRoux/git-bump-cli.git"
+  },
+  "keywords": [
+    "npm",
+    "git",
+    "bump",
+    "cli"
+  ],
+  "author": "Gabriel Le Breton <lebreton.gabriel@gmail.com>",
+  "license": "MIT"
+}
